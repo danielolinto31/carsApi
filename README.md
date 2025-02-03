@@ -10,8 +10,6 @@
 
 </p>
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=0TpW6A1CA1M)
-
 ## :rocket: Tecnologias utilizadas
 
 * Java 21
